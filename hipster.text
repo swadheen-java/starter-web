@@ -1,3 +1,8 @@
 Given an integer value n, enumerate all prime numbers from 1 to n (exclusive) and return the list with the enumeration.
 
 This is a sample server customized Petstore server. You can find out more about Swagger at http://swagger.io or on irc.freenode.net, #swagger. For this sample, you can use the api key special-key to test the authorization filters.
+
+The number which is only divisible by itself and 1 is known as prime number. For example 2, 3, 5, 7…are prime numbers. Here we will see two programs: 1) First program will print the prime numbers between 1 and 100 2) Second program takes the value of n (entered by user) and prints the prime numbers between 1 and n. If you are looking for a program that checks whether the entered number is prime or not then see: Java Program to check prime number.
+
+It will display all the prime numbers between 1 and n (n is the number, entered by user).
+
