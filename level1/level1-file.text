@@ -1,0 +1,2 @@
+ASCII is a code for representing English characters as numbers, each letter of english alphabets is assigned a number ranging from 0 to 127. For example, the ASCII code for uppercase P is 80.
+In Java programming, we have two ways to find ASCII value of a character 1) By assigning a character to the int variable 2) By type casting character value as int
